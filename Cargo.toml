@@ -1,0 +1,6 @@
+[package]
+name = "nrlib"
+version = "0.1.0"
+authors = ["Nakul Javali <javali@usc.edu>"]
+
+[dependencies]
